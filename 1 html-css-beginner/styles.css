@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(72, 233, 245);
+    color: white;
+}
+
+#first-div {
+    background: pink;
+}
+
+.paragraph-header {
+    color: black;
+    font-size: 2rem;
+}
